@@ -2,7 +2,10 @@
 
 个人知识站点 —— 博客、资源分享与碎碎念。
 
-🔗 **站点地址**：https://wlunan.github.io/idocs
+🔗 **站点地址**：https://docs.vkfc.dpdns.org
+
+已通过cloudflare pages部署，提交到master分支即自动部署，无需构建步骤。
+
 
 ## 项目结构
 
